@@ -1,0 +1,211 @@
+
+body{
+background-color: white
+}
+
+
+*{margin:0;padding:0;color:black}
+
+h1{color:black; font-size:45px; font-family:tahoma;}
+
+
+*{margin:0;padding:0;color:black}
+
+h2{color:white; font-size:20px; font-family:tahoma;}
+
+*{margin:0;padding:0;color:black}
+
+h3{color:black; font-size:30px; font-family:tahoma;}
+
+*{margin:0;padding:0;color:black}
+
+h4{color:black; font-size:20px; font-family:arial;}
+
+
+*{margin:0;padding:0;color:black}
+
+h5{color:black; font-size:30px; font-family:arial;}
+
+
+
+p{color:black; font-size:16px;font-family:arial}
+
+
+.texto-principal {color:red; text-align:center;}
+
+
+.bnt{
+	font-family:arial;
+	font-size:14px;
+	text-transform: uppercase;
+	font-weight:700;
+	border: none;
+	padding:10px;
+	cursor: pointer;
+	display:inline-block;
+	text-decoration: none;
+}
+
+.bnt-green: hover{
+	background: green;
+	color:#fff;
+	box-shadow: 0 5px 0 #006000;
+	
+}
+
+.bnt-green: active{
+	position: relative;
+	top: 5px;
+	box-shadow: none;
+	
+}
+
+
+
+table{
+border: 0;
+
+}
+
+
+
+
+.texto-principal {color:white; text-align:center; font-family:tahoma;font-size:20px;}
+
+.fundo-principal {background-color:#6D87D0;padding:20px;}
+
+
+
+
+
+#conteudo
+{background-color:#6D87D0;color:white;width:300px;padding:20px;border-radius:20px
+50px;}
+
+
+
+#conteudo2
+{background-color:blue;color:white;width:300px;padding:20px;opacity:0.3;}
+
+
+#conteudo3
+{background-color:blue;color:white;width:300px;padding:20px;opacity:0.1;}
+
+
+#conteudo5 {background-color:blue;color:white; width:350px;height:150px;
+transition: all 2s linear;}
+
+#conteudo5:hover {width:400px;height:250px;color:white; background-color:red}
+
+
+
+   span{font-weight: bold;}
+
+   
+   
+   
+   figure {
+  float: center;
+  width: 30%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+#menu ul li a {
+    padding: 2px 10px;
+    display: inline-block;
+
+    /* visual do link */
+    background-color:#EDEDED;
+    color: #333;
+    text-decoration: none;
+    border-bottom:3px solid #EDEDED;
+}
+#menu ul li a:hover {
+    background-color:#D6D6D6;
+    color: #6D6D6D;
+    border-bottom:3px solid #EA0000;
+}
+
+.barNav a {
+	
+    padding: 15px 30px;
+    display: inline-block;
+
+    /* visual do link */
+    background-color:#EDEDED;
+    color: #333;
+    text-decoration: none;
+    border-bottom:3px solid #EDEDED;
+}
+
+.barNav a:hover {
+    background-color:#D6D6D6;
+    color: #6D6D6D;
+    border-bottom:3px solid #EA0000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
